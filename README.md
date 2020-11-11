@@ -1,3 +1,3 @@
-# api cloud test
+# API Cloud Test
 
 This is a Apiclound test, in order to test the git code to native
